@@ -31,10 +31,9 @@
 ---
 
 ### 📫 Connect With Me
-- 📧 gaurav.email@example.com  
-- 🔗 [LinkedIn](https://linkedin.com/in/your-profile)  
-- 🌐 [Portfolio](https://your-portfolio-link.com)
-
+- 📧 thakurgaurav1401@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/gauravsingh1401/) 
+- 🌐 
 ---
 
 _“Build something you're proud of.”_
