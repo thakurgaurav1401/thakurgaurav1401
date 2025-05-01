@@ -2,7 +2,7 @@
 
 🚀 A passionate tech enthusiast and digital entrepreneur  
 🎓 First-year student at IIT Patna  
-💼 Founder of [ApkaAds](https://your-website-link.com) – innovating advertising with water bottles  
+💼 Founder of [ApkaAds](https://apkaads.in/) – innovating advertising with water bottles  
 🔧 Building projects with Python, OpenCV, Web Dev & AI
 
 ---
