@@ -8,8 +8,8 @@
 
 🛠️ Technologies & Tools
 - 💻 Languages: Python, JavaScript, HTML, CSS
-- 🧠 Libraries/Frameworks: OpenCV, Flask, Tailwind CSS
-- 🛠️ Tools: Git, VS Code, Tally ERP, Canva
+- 🧠 Libraries/Frameworks: OpenCV,  Tailwind CSS
+- 🛠️ Tools: Git, VS Code, Canva
 - 🌐 Web: Node.js (learning), REST APIs, SEO Basics
 
 
