@@ -1,7 +1,7 @@
 👋 Hi, I'm Gaurav Singh
 
 🚀 A passionate tech enthusiast and digital entrepreneur  
-🎓 First-year student at IIT Patna  
+🎓 Second-year student at IIT Patna  
 💼 Founder of [ApkaAds](https://apkaads.in/) – innovating advertising with water bottles  
 🔧 Building projects with Python, OpenCV, Web Dev & AI
 
@@ -15,16 +15,16 @@
 
 
  💼 Projects
-- 🎨 **AI Virtual Paint** – Hand tracking canvas using OpenCV  
-- 🔍 **Face Recognition System** – Real-time ID from stored database  
-- 💧 **ApkaAds Website** – Custom advertising with bottled water  
-- 🧠 **Blog Automation Tool** – AI writes, formats, and posts blogs with SEO
+- 🎨 "AI Virtual Paint" – Hand tracking canvas using OpenCV  
+- 🔍 "Face Recognition System" – Real-time ID from stored database  
+- 💧 "ApkaAds Website" – Custom advertising with bottled water  
+- 🧠 "Blog Automation Tool" – AI writes, formats, and posts blogs with SEO
 
 
 📈 Currently Learning
-- 🤖 Machine Learning & Automation  
 - 🧩 Full Stack Development  
 - 📊 Startup Operations & Growth
+- 🅼 Meta Ads
 
 
 📫 Connect With Me
