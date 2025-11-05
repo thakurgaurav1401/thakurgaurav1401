@@ -8,7 +8,7 @@
 
 🛠️ Technologies & Tools
 - 💻 Languages: Python, JavaScript, HTML, CSS
-- 🧠 Libraries/Frameworks: OpenCV,  Tailwind CSS
+- 🧠 Libraries/Frameworks: OpenCV,  Tailwind CSS, React.js
 - 🛠️ Tools: Git, VS Code, Canva
 - 🌐 Web: Node.js (learning), REST APIs, SEO Basics
 
