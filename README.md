@@ -1,38 +1,50 @@
-👋 Hi, I'm Gaurav Singh
+# Gaurav Singh
 
-🚀 A passionate tech enthusiast and digital entrepreneur  
-🎓 Second-year student at IIT Patna  
-💼 Founder of [ApkaAds](https://apkaads.in/) – innovating advertising with water bottles  
-🔧 Building projects with Python, OpenCV, Web Dev & AI
+![Profile Banner](./profile-banner.png)
 
+<p align="center">
+  <b>Developer · Builder · Digital Entrepreneur</b><br/>
+  Building useful products, learning every day, and turning ideas into real-world impact.
+</p>
 
-🛠️ Technologies & Tools
-- 💻 Languages: Python, JavaScript, HTML, CSS
-- 🧠 Libraries/Frameworks: OpenCV,  Tailwind CSS, React.js
-- 🛠️ Tools: Git, VS Code, Canva
-- 🌐 Web: Node.js (learning), REST APIs, SEO Basics
+---
 
+## 👋 About Me
 
+- 🎓 Student at IIT Patna
+- 🚀 Building products at the intersection of technology and entrepreneurship
+- 💡 Interested in AI, web development, automation, and product growth
+- 🌱 Currently learning Full Stack Development, System Design, and AI Tools
 
- 💼 Projects
-- 🎨 "AI Virtual Paint" – Hand tracking canvas using OpenCV  
-- 🔍 "Face Recognition System" – Real-time ID from stored database  
-- 💧 "ApkaAds Website" – Custom advertising with bottled water  
-- 🧠 "Blog Automation Tool" – AI writes, formats, and posts blogs with SEO
+## 🛠️ Tech Stack
 
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nextjs,nodejs,supabase,git,github,tailwind" />
+</p>
 
-📈 Currently Learning
-- 🧩 Full Stack Development  
-- 📊 Startup Operations & Growth
-- 🅼 Meta Ads
+## 🚀 Featured Projects
 
+| Project | Description |
+|---|---|
+| **IshuQuiz** | Interactive map-based geography quiz platform |
+| **Steppoff** | Instagram comment-to-DM automation and creator tools |
+| **ApkaAds** | Customized water-bottle advertising platform |
 
-📫 Connect With Me
-- 📧 thakurgaurav1401@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/gauravsingh1401/) 
-- 🌐 www.steppoff.com
-  
+## 📚 Currently Learning
 
+- Full Stack Development
+- AI Tools & Automation
+- System Design
+- Product Strategy & Growth
 
-“Build something you're proud of.”
+## 🤝 Connect With Me
 
+- 📧 Email: [thakurg​aurav1401@gmail.com](mailto:thakurg​aurav1401@gmail.com)
+- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/)
+- 🌐 Website: [Steppoff](https://www.steppoff.com)
+
+---
+
+<p align="center">
+  <i>“Build something you're proud of.”</i>
+</p>
