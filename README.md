@@ -1,6 +1,6 @@
 # Gaurav Singh
 
-![Profile Banner](./profile-banner.png)
+![Gaurav Singh — Profile Banner](./banner.png)
 
 <p align="center">
   <b>Developer · Builder · Digital Entrepreneur</b><br/>
